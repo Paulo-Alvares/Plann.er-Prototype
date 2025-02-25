@@ -1,33 +1,38 @@
-HTML
-- Hypertext
-- Markup
-  - tags, elementos
-- Language
+<div align="center">
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=rocketseat" alt="Logo da Rocketseat" />
+  <h3 align="center">NLW Journey - Full Stack - Rocketseat</h3>
+</div>
 
-CSS
-- Cascading Style Sheet
+# 🔍Visão Geral
+  Este NLW da Rocketseat apresenta uma introdução abrangente aos conceitos de HTML e CSS aplicados ao desenvolvimento Front-End. A imersão explora boas práticas de estruturação e estilização de páginas web, ajudando a aprimorar as habilidades na criação de interfaces modernas. Além disso, a experiência é reforçada com um projeto prático, no qual é desenvolvido um sistema de administração de viagens usando JavaScript, permitindo a aplicação dos conhecimentos adquiridos de forma dinâmica e interativa.
 
-JavaScript
-- interpretada pelo browser
-- dinâmica
-- orientado a objeto
-- ECMAScript trazendo inovações
+<div align="center">
+  <h3> 💻Tecnologias Aprendidas</h3>
+  <img src="https://iconsverse.vercel.app/icons?i=html,css,js" alt="Tecnologias Aprendidas">
+</div>
 
-Conceitos fundamentais de programação
-- Comentários
-- Declaração de variáveis (const, let)
-- Operadores (atribuição, concatenção, matemáticos)
-- Tipos de dados (string, number, boolean, Date)
-- Estrutura de dados (functions, object, array)
-- Controle de fluxo (if, else)
-- Estrutura de repetição (for)
-- Manipulação e gestão de dados
-  - Conversão de dados
+# 🏅Certificado
+<img src="assets/certificado.jpg" alt="Certificado do Curso">
 
-Algotitmo
-- sequência de passos lógica para a resolução de um problema
+# 🔗Recursos Adicionais
+### 🔧Ferramentas
+  - <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  - <a href="https://www.fronteditor.dev/">Front-end Editor</a>
 
-Fases da resolução de um problema
-01. Coletar os dados
-02. Processar os dados
-03. Apresentar os dados
+### 📖Guias de Referência
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+
+### 📎Curso
+  - <a href="https://app.rocketseat.com.br/events/nlw-journey/overview">NLW Journey</a>
+
+# 📬Contato
+<div align="center"> 
+  <a href="https://github.com/Paulo-Alvares"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulo-alvares/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/paulo_10111/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/paulogabriel.alvares"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://codepen.io/Poulos-Alvares"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+</div>
